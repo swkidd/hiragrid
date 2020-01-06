@@ -1,0 +1,8 @@
+.color-grid {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(3, auto);
+}
+
+.item { background-color: grey; }
