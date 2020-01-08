@@ -4,3 +4,7 @@
   grid-template-columns: repeat(5, 40px);
   grid-template-rows: repeat(5, 40px);
 }
+
+.button-grid button {
+  border-style: none;
+}
